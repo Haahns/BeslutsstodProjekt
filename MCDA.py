@@ -276,7 +276,7 @@ if __name__ == "__main__":
     #Set Max budget. All considered phones will be under this price 
     max_budget =get_max_budget(phone_specs_raw)
 
-    #Filter phones by price, "phone_specs" contains the filtered list
+    #Filter phones by price, "phone_specs" contains the filtered listgit DD .
     phone_specs = filter_phones_by_price(phone_specs_raw, max_budget) 
     
     #Columns which will be used for evaluation

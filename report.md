@@ -58,3 +58,10 @@ Med undantag för batteri satsningen för ~7" telefoner
 
 # <br>3. Rekommendationssystem (MCDA)
 
+Mitt rekommendationsystem är till grunden ett MCDA System.
+programmet frågar användaren efter en max budget och sedan telefonspecs.
+Programmet ger användaren den bästa telefonen inom budgeten.
+
+<br>
+Programmet fungerar helt okej.<br>
+I MCDA kan det finnas object som ofta får mycket höga betyg.<br> Detta har jag kunna eliminera med budgeten, då de största tabbarna alltid fick mest poäng oberoende användarens önskemål<br>
