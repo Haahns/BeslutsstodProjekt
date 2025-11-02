@@ -3,6 +3,8 @@
 
 ## Innehåll <br> <br> 1. Data <br>2. Exploratory Data Analysis (EDA)<br>     3. Rekommendationssystem (MCDA) <br> 4. Reflektion
 
+### Projektets kod finns i Branchen "Inlämning"
+
 # 1. Data
 
 Mitt projekt baserar sig på ett dataset med 888 mobiltelefoner och surfplattor.
@@ -63,5 +65,14 @@ programmet frågar användaren efter en max budget och sedan telefonspecs.
 Programmet ger användaren den bästa telefonen inom budgeten.
 
 <br>
+Programmet finns i pythonfilen Projekt.py .
 Programmet fungerar helt okej.<br>
 I MCDA kan det finnas object som ofta får mycket höga betyg.<br> Detta har jag kunna eliminera med budgeten, då de största tabbarna alltid fick mest poäng oberoende användarens önskemål<br>
+
+
+# Reflektion
+Kursen var givande i grunderna till beslutstödssytem och <br> något man tar förgivet i en värld av ständiga rekommendationer från filmer och musik till vilken brödrost jag mest sannolikt är intresserad av.
+Jag har tagit hjälp av Github Copilot.
+
+
+Projektet presenterades för Andrej onsdagen 29.10.2025
