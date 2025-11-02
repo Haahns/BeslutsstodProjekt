@@ -97,7 +97,7 @@ def get_user_weights_phones(criteria_for_decision_phones, phone_specs):
 def calculate_alternative_score(phone_specs, normalized_weights_phones): # MOBILE------------------------------------MOBILE
     
     #Calculates the total weighted score for a single alternative.
-    #Students must implement the scoring logic.
+    
     
     # 
     # score = (alternative['reliability_score'] * normalized_weights['reliability']) + ...
